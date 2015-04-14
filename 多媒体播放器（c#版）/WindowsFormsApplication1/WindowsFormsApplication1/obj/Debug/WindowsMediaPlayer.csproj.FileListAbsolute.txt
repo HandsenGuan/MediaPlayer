@@ -1,0 +1,13 @@
+E:\学校课件资料\大三上\多媒体开发编程\作业\多媒体播放器（c#版）\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\学校课件资料\大三上\多媒体开发编程\作业\多媒体播放器（c#版）\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+E:\学校课件资料\大三上\多媒体开发编程\作业\多媒体播放器（c#版）\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+E:\学校课件资料\大三上\多媒体开发编程\作业\多媒体播放器（c#版）\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsMediaPlayer.csproj.ResolveComReference.cache
+E:\学校课件资料\大三上\多媒体开发编程\作业\多媒体播放器（c#版）\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\学校课件资料\大三上\多媒体开发编程\作业\多媒体播放器（c#版）\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\学校课件资料\大三上\多媒体开发编程\作业\多媒体播放器（c#版）\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\学校课件资料\大三上\多媒体开发编程\作业\多媒体播放器（c#版）\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\学校课件资料\大三上\多媒体开发编程\作业\多媒体播放器（c#版）\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+E:\学校课件资料\大三上\多媒体开发编程\作业\多媒体播放器（c#版）\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+E:\学校课件资料\大三上\多媒体开发编程\作业\多媒体播放器（c#版）\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\学校课件资料\大三上\多媒体开发编程\作业\多媒体播放器（c#版）\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\学校课件资料\大三上\多媒体开发编程\作业\多媒体播放器（c#版）\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsMediaPlayer.csproj.GenerateResource.Cache

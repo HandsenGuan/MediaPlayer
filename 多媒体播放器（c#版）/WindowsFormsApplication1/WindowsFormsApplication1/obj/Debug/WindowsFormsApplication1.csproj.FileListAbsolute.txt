@@ -1,0 +1,14 @@
+E:\学校课件资料\大三上\交互设计\实验3_数字墨水\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\学校课件资料\大三上\交互设计\实验3_数字墨水\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\学校课件资料\大三上\交互设计\实验3_数字墨水\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\学校课件资料\大三上\交互设计\实验3_数字墨水\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+E:\学校课件资料\大三上\交互设计\实验3_数字墨水\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+E:\学校课件资料\大三上\交互设计\实验3_数字墨水\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\学校课件资料\大三上\交互设计\实验3_数字墨水\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+E:\学校课件资料\大三上\交互设计\实验3_数字墨水\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+E:\学校课件资料\大三上\交互设计\实验3_数字墨水\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\学校课件资料\大三上\交互设计\实验3_数字墨水\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\学校课件资料\大三上\交互设计\实验3_数字墨水\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\学校课件资料\大三上\交互设计\实验3_数字墨水\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\学校课件资料\大三上\交互设计\实验3_数字墨水\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\学校课件资料\大三上\交互设计\实验3_数字墨水\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
